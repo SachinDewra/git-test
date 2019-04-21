@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "packagejson file kese banaye project me",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SachinDewra/git-test.git"
+  },
+  "author": "Sachin Dewra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SachinDewra/git-test/issues"
+  },
+  "homepage": "https://github.com/SachinDewra/git-test#readme"
+}
